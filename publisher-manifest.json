@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2b266c63b568c0d935af7f7c",
+  "owner": "wegyvj",
+  "repo": "page-c7299ccc319e45469808009f",
+  "title": "锐星云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c7299ccc319e45469808009f",
+      "a": "锐星云",
+      "b": "",
+      "entity": "锐星云",
+      "brand": "锐星云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1cdb43d030e8c247a4a08dc025c983324faadd0bb0be75785261b034e40580ad",
+      "content": {
+        "keyword1": "锐星云",
+        "keyword2": "",
+        "primary_entity": "锐星云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "锐星云提供稳定高速的机场订阅与VPN加速服务，覆盖流媒体解锁、游戏专线与多设备客户端，支持官网下载与一键导入配置。",
+          "AI_DESCRIPTION": "锐星云提供稳定高速的机场订阅与VPN加速服务，覆盖流媒体解锁、游戏专线与多设备客户端，支持官网下载与一键导入配置。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--bg:#061525;--panel:#0d2438;--cyan:#2ad4c9;--text:#f2f9ff;--muted:#a8c4d8;--line:#1a3d55}*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:var(--bg);color:var(--text);font-size:16px;line-height:1.7;overflow-x:hidden}a{color:var(--cyan);text-decoration:none}a:hover{text-decoration:underline}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#04101c;border-bottom:1px solid var(--line);padding:14px 0}.brandbar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px}.logo{font-weight:700;font-size:20px;color:var(--cyan)}nav{display:flex;flex-wrap:wrap;gap:10px 14px;font-size:14px}nav a{color:var(--muted)}.hero{padding:36px 0 12px}.hero p{color:var(--muted);max-width:680px;margin:12px 0 20px;font-size:17px}.btns{display:flex;flex-wrap:wrap;gap:10px}.btn{display:inline-block;padding:10px 18px;border-radius:6px;background:var(--cyan);color:#042028;font-weight:600}.btn.ghost{background:transparent;border:1px solid var(--cyan);color:var(--cyan)}h1{font-size:28px;line-height:1.3;color:#fff}h2{font-size:22px;margin:0 0 16px;color:#fff;border-left:4px solid var(--cyan);padding-left:10px}h3{font-size:18px;margin:0 0 8px;color:var(--cyan)}section{padding:28px 0;border-top:1px solid var(--line)}.stagger{display:flex;flex-wrap:wrap;gap:20px;align-items:stretch}.stagger>div{flex:1 1 280px}.stagger.reverse{flex-direction:row-reverse}.panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px;color:var(--muted)}.plans{display:flex;flex-wrap:wrap;gap:16px}.plan{flex:1 1 240px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px}.plan.feat{border:2px solid var(--cyan)}.price{font-size:26px;color:var(--cyan);font-weight:700;margin:8px 0}.annual{color:var(--muted);font-size:13px;margin-bottom:10px}.plan ul{margin:8px 0 0 18px;color:var(--muted)}.plan li{margin:6px 0}.tag{display:inline-block;background:var(--cyan);color:#042028;font-size:12px;padding:2px 8px;border-radius:4px;font-weight:700}.step{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px;flex:1 1 220px;color:var(--muted)}.faq details{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:12px 14px;margin:10px 0}.faq summary{font-weight:600;color:#fff;cursor:pointer}.faq details p{margin-top:8px;color:var(--muted)}.list{color:var(--muted);margin-left:18px}.list li{margin:6px 0}footer{background:#04101c;padding:24px 0;font-size:14px;color:var(--muted)}.sitemap a,.friends a{margin-right:12px;display:inline-block;margin-bottom:6px}.adbox{border:1px dashed var(--line);padding:16px;border-radius:8px;color:var(--muted);text-align:center}@media (max-width:720px){h1{font-size:24px}h2{font-size:20px}.stagger,.stagger.reverse,.plans{flex-direction:column}nav{font-size:13px}}</style><header><div class=\"wrap brandbar\"><div class=\"logo\">锐星云官网</div><nav><a href=\"#top\">首页</a><a href=\"#intro\">简介</a><a href=\"#plans\">套餐订阅</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#nodes\">线路节点</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作</a><a href=\"#links\">友链</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main id=\"top\"><div class=\"wrap hero\"><h1>锐星云 · 机场订阅与 VPN 网络加速</h1><p>锐星云是面向跨境访问的官方加速服务。通过机场订阅与多平台客户端，把办公、学术、流媒体和游戏流量引导至优化线路，减少抖动并提升可用性。本页说明套餐、配置步骤与官方下载入口，便于一次性完成导入与连接。</p><div class=\"btns\"><a class=\"btn\" href=\"#plans\">查看订阅套餐</a><a class=\"btn ghost\" href=\"#download\">前往客户端下载</a><a class=\"btn ghost\" href=\"#guide\">查看配置流程</a></div></div><section id=\"intro\"><div class=\"wrap\"><h2>品牌简介</h2><div class=\"stagger\"><div class=\"panel\"><h3>服务定位</h3><p>锐星云以机场订阅为核心，配套 VPN 风格的客户端接入。用户购买后获得订阅链接，在 Clash、Shadowrocket 等工具中更新节点即可使用。官方网站集中提供说明、套餐对照与客户端获取路径，避免分散查找。</p></div><div class=\"panel\"><h3>官方渠道</h3><p>请通过锐星云官网获取订阅与安装包。第三方转发的配置可能过期或被篡改。客户端仅用于连接已购买的线路，不捆绑无关软件。账号、流量与设备台数以套餐页面公示为准。</p></div></div></div></section><section id=\"plans\"><div class=\"wrap\"><h2>套餐与机场订阅</h2><p>按月计费，年付可锁定优惠。流量按自然月重置，仅统计经加速通道的实际用量。设备数指同时在线会话。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan feat\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><div class=\"price\">¥35/月</div><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></div></section><section id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><div class=\"stagger\"><div class=\"panel\"><h3>跨境办公与协作</h3><p>远程会议、代码仓库、云文档在高峰时段容易拥塞。锐星云将办公域名走低丢包线路，保持会话稳定，适合分布式团队与驻外人员。</p></div><div class=\"panel\"><h3>学术资料与公开课</h3><p>期刊站点、预印本与公开课平台对国际出口敏感。使用订阅节点后可按地区切换出口，减少验证失败与中断下载。</p></div></div><div class=\"stagger reverse\"><div class=\"panel\"><h3>流媒体观看</h3><p>旗舰版与团队版强调原生解锁。选择对应地区节点后，可减少片源地区限制导致的加载失败，适合长时间连续播放。</p></div><div class=\"panel\"><h3>游戏与实时对战</h3><p>旗舰版包含 IPLC 专线游戏优化，针对常见对战与更新下载降低往返时延。团队版可为企业内测服或多开环境划分专属带宽。</p></div></div></div></section><section id=\"guide\"><div class=\"wrap\"><h2>配置流程</h2><p>锐星云强调可复现的接入步骤。按下列顺序操作，多数客户端可在数分钟内完成首次连接。</p><div class=\"stagger\"><div class=\"step\"><h3>确认套餐</h3><p>在官网选择基础版、旗舰版或团队版，核对流量、设备数与线路类型。年付适合长期使用，月付适合短期验证。</p></div><div class=\"step\"><h3>获取订阅</h3><p>支付完成后进入用户中心复制订阅 URL。该链接用于客户端自动拉取节点，请勿公开分享，以免流量被占用。</p></div></div><div class=\"stagger reverse\"><div class=\"step\"><h3>安装客户端</h3><p>根据系统到客户端下载区获取安装包。Windows 与 macOS 使用 Clash 内核图形客户端；Android 可用同类应用；iOS 使用兼容订阅的商店应用。</p></div><div class=\"step\"><h3>导入并更新</h3><p>在客户端选择“从 URL 导入订阅”，粘贴链接后更新。确认出现香港、日本、新加坡、美国等分组后再进入下一步。</p></div></div><div class=\"stagger\"><div class=\"step\"><h3>选择节点连接</h3><p>日常浏览可选负载均衡或延迟最低节点；流媒体选择标注解锁的地区；游戏优先 IPLC 或游戏优化组。连接后用浏览器访问目标站点验证。</p></div><div class=\"step\"><h3>分流与排错</h3><p>建议开启规则分流，仅对需要加速的域名走代理。若无法更新订阅，检查系统时间、剪贴板完整性与是否使用官网原始链接。</p></div></div></div></section><section id=\"nodes\"><div class=\"wrap\"><h2>线路节点与访问体验</h2><div class=\"stagger\"><div class=\"panel\"><h3>节点覆盖</h3><p>常规节点池包含香港、台湾、日本、新加坡、韩国与美西等地。旗舰版开放 IPLC 专线与游戏优化组；团队版另提供 VIP 高带宽入口，适合多人同时拉取大文件。</p></div><div class=\"panel\"><h3>使用建议</h3><p>白天办公优先选择近距离中转，晚间娱乐再切流媒体专区。遇到单节点波动时，更新订阅或切换同地区备用入口即可，无需反复重装客户端。</p></div></div></div></section><section id=\"download\"><div class=\"wrap\"><h2>客户端下载与官方获取</h2><div class=\"stagger\"><div class=\"panel\"><h3>桌面端</h3><ul class=\"list\"><li>Windows：图形 Clash 客户端，支持系统代理与规则分流</li><li>macOS：菜单栏客户端，可导入订阅并定时更新</li><li>Linux：兼容 Clash 配置的命令行或图形前端</li></ul></div><div class=\"panel\"><h3>移动端</h3><ul class=\"list\"><li>Android：导入订阅后可后台保持连接</li><li>iOS：使用支持机场订阅的应用粘贴 URL</li><li>平板与多设备：注意套餐同时在线上限</li></ul></div></div><p class=\"panel\">官方下载入口集中在本页与用户中心。安装完成后只导入锐星云订阅，不要混入来源不明的配置。如需重新安装，先退出客户端再覆盖安装包，以免旧规则残留。</p></div></section><section id=\"faq\" class=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>锐星云是什么服务？</summary><p>锐星云是提供机场订阅与 VPN 网络加速的官方站点服务。用户通过订阅链接在客户端中连接优化线路，用于跨境办公、资料访问、流媒体与游戏等场景。</p></details><details><summary>如何完成官网客户端下载？</summary><p>打开本页“客户端下载”章节，按操作系统选择对应说明，在官网下载频道获取安装包。安装后回到用户中心复制订阅并导入，无需额外插件。</p></details><details><summary>订阅导入失败怎么处理？</summary><p>确认复制的是完整 HTTPS 订阅地址，系统时间正确，客户端已更新到可用版本。仍失败时在官网重新生成订阅链接，再执行一次“更新节点”。</p></details><details><summary>三个套餐如何选择？</summary><p>个人轻度使用选基础版；需要原生流媒体与游戏专线选旗舰版；多人同时在线或需要定制路由选团队版。设备数与流量以套餐列表为准。</p></details><details><summary>流量与设备数如何计算？</summary><p>流量按月重置，仅统计经过加速通道的数据。同时在线设备超过套餐上限时，新会话可能无法建立，断开空闲设备即可恢复。</p></details><details><summary>能否用于流媒体解锁？</summary><p>基础版覆盖常见基础片源；旗舰版与团队版提供全节点原生解锁说明。若某平台仍提示地区限制，切换到该平台对应地区的解锁节点并清除应用缓存。</p></details><details><summary>游戏延迟高如何优化？</summary><p>使用旗舰版 IPLC 或游戏优化组，关闭无关分流规则，避免在同一设备上开启占用带宽的下载任务。团队版可为固定房间划分 VIP 入口。</p></details></div></section><section id=\"ads\"><div class=\"wrap\"><h2>合作与广告位</h2><div class=\"adbox\"><p>锐星云官网预留图文合作展示区，面向网络工具、教程站点与企业信息化服务。展示内容与加速业务相互独立，不替代官方下载与订阅入口。</p><p><a href=\"#intro\">了解品牌</a> · <a href=\"#plans\">查看套餐</a></p></div></div></section><section id=\"links\"><div class=\"wrap\"><h2>友情链接</h2><div class=\"friends panel\"><a href=\"#download\">客户端下载</a><a href=\"#guide\">配置教程</a><a href=\"#plans\">机场订阅</a><a href=\"#nodes\">节点说明</a><a href=\"#faq\">帮助中心</a><a href=\"#sitemap\">网站地图</a></div></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer id=\"sitemap\"><div class=\"wrap\"><h2>网站地图</h2><nav class=\"sitemap\"><a href=\"#top\">首页</a><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐订阅</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#nodes\">线路节点</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作广告</a><a href=\"#links\">友情链接</a></nav><p>锐星云官方网站 · 机场订阅与 VPN 加速器客户端下载说明 · 内容以本页公示套餐为准</p></div></footer>",
+          "hash": "bbc825ff0d72a6a4c171ba6a6b233207937b2537e9880017becdc654402000c1",
+          "seo": {
+            "title": "锐星云官网 | 机场VPN梯子网络加速与客户端下载",
+            "keywords": "锐星云,锐星云机场,锐星云VPN,锐星云官网,梯子,网络加速,加速器,客户端下载,机场订阅,官方下载",
+            "description": "锐星云提供稳定高速的机场订阅与VPN加速服务，覆盖流媒体解锁、游戏专线与多设备客户端，支持官网下载与一键导入配置。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "iesiso.cn",
+    "host": "p-e328083d1b.iesiso.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "iesiso.cn",
+      "url": "https://iesiso.cn/",
+      "label": "小黄鸭(COCODUCK)",
+      "apex": "iesiso.cn",
+      "kind": null,
+      "identity": "kmsfgmxme/page-1328c854510a20a03e9582a3"
+    },
+    {
+      "host": "hjscp.cn",
+      "url": "https://hjscp.cn/",
+      "label": "锐星云",
+      "apex": "hjscp.cn",
+      "kind": null,
+      "identity": "yfnywxgph/page-e72f3e5e40d3b13185672201"
+    },
+    {
+      "host": "tttye.cn",
+      "url": "https://tttye.cn/",
+      "label": "锐星云",
+      "apex": "tttye.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-a3c7a2054e3ab45f64df0f87"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "16744c1ee9cad363a153d3749236020c11c8bc758b0683dcd759540fd655850b",
+    "sitemap.xml": "d4ab4c04c517c1d044d593b299318dc661c44e681f7a5a02556836608e9e976d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "218fc0f83161676fbca6fe5443e2d94304175d367b03b2cbd543a85662d3d1ce",
+    "robots.txt": "c55f6469bf638b16604c0db349b5d03ba44195698a791ca6e5348a8bf433295f",
+    "c8c5dedf790ab8cd16545d2a7a04ddf1.txt": "c98f14c5f73253a932e023d7fcafb10e427ff121d40b01be7953b056b41fbb84"
+  },
+  "revision": "4a7754ec0d92bd0a99044e6f6947480c2a777e4db8f83d43dfed56d47e10d486"
+}

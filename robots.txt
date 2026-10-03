@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-e328083d1b.iesiso.cn/sitemap.xml
